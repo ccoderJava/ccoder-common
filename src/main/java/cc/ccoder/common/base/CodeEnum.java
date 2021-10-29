@@ -1,13 +1,15 @@
-package cc.ccoder.base;
+package cc.ccoder.common.base;
+
+import java.io.Serializable;
 
 /**
  * <p></p>
  *
- * @author chencong
- * @email  cong.ccoder@gmail.com
+ * @author congcong
+ * @email cong.ccoder@gmail.com
  * @date CodeEnum.java v1.0  2021/10/29 15:25
  */
-public interface CodeEnum {
+public interface CodeEnum extends Serializable {
     /**
      * 枚举编码
      *

@@ -1,11 +1,12 @@
 package cc.ccoder.common;
 
-import cc.ccoder.base.CodeMessageEnum;
+
+import cc.ccoder.common.base.CodeMessageEnum;
 
 /**
  * <p></p>
  *
- * @author chencong
+ * @author  congcong
  * @email cong.ccoder@gmail.com
  * @date ApplyStatusEnum.java v1.0  2021/10/29 15:23
  */

@@ -1,13 +1,13 @@
-package cc.ccoder.exception;
+package cc.ccoder.common.exception;
 
-import cc.ccoder.base.CodeEnum;
-import cc.ccoder.base.CodeMessageEnum;
 import cc.ccoder.common.CommonResponseCode;
+import cc.ccoder.common.base.CodeEnum;
+import cc.ccoder.common.base.CodeMessageEnum;
 
 /**
  * <p></p>
  *
- * @author chencong
+ * @author congcong
  * @email cong.ccoder@gmail.com
  * @date ErrorException.java v1.0  2021/10/29 15:33
  */
