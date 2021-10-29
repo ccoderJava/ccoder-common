@@ -1,6 +1,6 @@
 package cc.ccoder.common.exception;
 
-import cc.ccoder.common.CommonResponseCode;
+import cc.ccoder.common.base.CommonResponseCode;
 import cc.ccoder.common.base.CodeEnum;
 import cc.ccoder.common.base.CodeMessageEnum;
 

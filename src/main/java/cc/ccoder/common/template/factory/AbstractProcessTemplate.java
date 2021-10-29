@@ -1,6 +1,6 @@
 package cc.ccoder.common.template.factory;
 
-import cc.ccoder.common.CommonResponseCode;
+import cc.ccoder.common.base.CommonResponseCode;
 import cc.ccoder.common.exception.ErrorException;
 import cc.ccoder.common.exception.FailException;
 import cc.ccoder.common.request.AbstractRequest;

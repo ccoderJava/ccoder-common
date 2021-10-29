@@ -3,6 +3,8 @@ package cc.ccoder.common.exception;
 import cc.ccoder.common.base.CodeEnum;
 import cc.ccoder.common.base.CodeMessageEnum;
 
+import java.io.Serializable;
+
 /**
  * <p></p>
  *
@@ -10,7 +12,9 @@ import cc.ccoder.common.base.CodeMessageEnum;
  * @email cong.ccoder@gmail.com
  * @date FailException.java v1.0  2021/10/29 15:30
  */
-public class FailException extends RuntimeException {
+public class FailException extends RuntimeException implements Serializable {
+
+    private static final long serialVersionUID = 1L;
 
     private final String code;
 

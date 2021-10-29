@@ -1,7 +1,5 @@
-package cc.ccoder.common;
+package cc.ccoder.common.base;
 
-
-import cc.ccoder.common.base.CodeMessageEnum;
 
 /**
  * <p></p>

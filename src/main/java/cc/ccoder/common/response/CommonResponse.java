@@ -1,6 +1,6 @@
 package cc.ccoder.common.response;
 
-import cc.ccoder.common.ApplyStatusEnum;
+import cc.ccoder.common.base.ApplyStatusEnum;
 import cc.ccoder.common.base.CodeEnum;
 import cc.ccoder.common.base.CodeMessageEnum;
 import org.apache.commons.lang3.builder.ToStringBuilder;
