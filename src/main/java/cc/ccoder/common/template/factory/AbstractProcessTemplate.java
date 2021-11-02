@@ -126,7 +126,7 @@ public abstract class AbstractProcessTemplate<Request extends AbstractRequest, R
      * @param response 响应
      */
     protected void logResponse(Response response, StopWatch watch) {
-        logger.info("响应(耗时: {} ms): {}", watch.getTime(TimeUnit.MILLISECONDS), response);
+        logger.info("Response(time: {} ms): {}", watch.getTime(TimeUnit.MILLISECONDS), response);
     }
 
 }
