@@ -6,7 +6,7 @@ package cc.ccoder.common.template.factory;
  *
  * @author  congcong
  * @email cong.ccoder@gmail.com
- * @date CodeServiceFacatory.java v1.0 2021/6/28 19:43
+ * @date CodeServiceFactory.java v1.0 2021/6/28 19:43
  */
 public interface CodeServiceFactory<Provider extends CodeService> {
 
